@@ -14,7 +14,7 @@ choroba(goraczka_okopowa, goraczka, bol_glowy, sztywnosckarku, swiatlowstret).
 choroba(swiatlowstret,zapalenie_spojowek, zapalenie_wnetrza_galki_ocznej, bezteczowkowosc, bezsoczewkowosc).
 choroba(depresja, zaburzenia_snu, spadek_libido, zmniejszenie_lub_utrata_apetytu, dobowe_wahanie_samopoczucia).
 choroba(schizofrenia, halucynacje, urojenia_ksobne, anhedonia, awolicja).
-choroba(anoreksja, obnizenie_nastroju, poczucie_braku_sensu_zycia, mysli_samobojcze, objawy_myslenia_obsesyjnego)
+choroba(anoreksja, obnizenie_nastroju, poczucie_braku_sensu_zycia, mysli_samobojcze, objawy_myslenia_obsesyjnego).
 
 diagnoza(X,A,B,C,D):-
             read(X),nl,
